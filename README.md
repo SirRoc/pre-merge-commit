@@ -1,4 +1,4 @@
-# yorkie
+# pre-merge-commit
 
 > Git hooks made easy
 
