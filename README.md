@@ -13,7 +13,7 @@ This is a fork of [husky](https://github.com/typicode/husky) with a few changes:
   ``` json
   {
     "scripts": {
-      "precommit": "foo"
+      "pre-merge-commit": "foo"
     }
   }
   ```
@@ -23,7 +23,7 @@ This is a fork of [husky](https://github.com/typicode/husky) with a few changes:
   ``` json
   {
     "gitHooks": {
-      "pre-commit": "foo"
+      "pre-merge-commit": "foo"
     }
   }
   ```
