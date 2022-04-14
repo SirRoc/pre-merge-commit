@@ -13,31 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yyx990803/yorkie.git"
+    "url": "https://github.com/SirRoc/pre-merge-commit.git"
   },
   "keywords": [
     "git",
     "hook",
     "hooks",
-    "pre-commit",
-    "precommit",
-    "post-commit",
-    "postcommit",
-    "pre-push",
-    "prepush",
-    "post-merge",
-    "postmerge",
+    "pre-merge-commit",
     "test"
-  ],
-  "authors": [
-    "Typicode <typicode@gmail.com>",
-    "Evan You"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yyx990803/yorkie/issues"
+    "url": "https://github.com/SirRoc/pre-merge-commit.git"
   },
-  "homepage": "https://github.com/yyx990803/yorkie",
+  "homepage": "https://github.com/SirRoc/pre-merge-commit.git",
   "devDependencies": {
     "jest": "^20.0.4",
     "mkdirp": "^0.5.1",
